@@ -1,0 +1,13 @@
+{
+  "name": "ai-skills",
+  "owner": {
+    "name": "SHIN96BC"
+  },
+  "plugins": [
+    {
+      "name": "web-skills",
+      "source": "./plugins/web-skills",
+      "description": "Next.js 웹 개발 스킬 모음 - 디자인 설계, CBD/FSD 퍼블리싱, 쇼케이스 페이지, Jest 테스트"
+    }
+  ]
+}
