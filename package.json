@@ -1,7 +1,7 @@
 {
   "name": "@shin96bc/ai-skills",
   "version": "1.0.0",
-  "description": "Claude Code 특화 웹 개발 스킬 모음 - 디자인 설계, CBD/FSD 퍼블리싱, 쇼케이스 페이지, Jest 테스트",
+  "description": "AI 코딩 도구용 스킬 모음 - 웹 프론트엔드(Next.js) + 백엔드(Spring Boot MSA)",
   "files": [
     "plugins/"
   ],
@@ -11,7 +11,10 @@
     "nextjs",
     "web-design",
     "fsd",
-    "cbd"
+    "cbd",
+    "spring-boot",
+    "msa",
+    "java"
   ],
   "author": "SHIN96BC",
   "license": "MIT",

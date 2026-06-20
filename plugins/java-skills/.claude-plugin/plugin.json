@@ -1,0 +1,5 @@
+{
+  "name": "java-skills",
+  "version": "1.0.0",
+  "description": "Spring Boot MSA 개발 스킬 모음 - 도메인 설계, 레이어드 아키텍처, 이벤트 기반 비동기, JUnit 테스트"
+}

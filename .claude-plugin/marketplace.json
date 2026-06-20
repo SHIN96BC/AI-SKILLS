@@ -8,6 +8,11 @@
       "name": "web-skills",
       "source": "./plugins/web-skills",
       "description": "Next.js 웹 개발 스킬 모음 - 디자인 설계, CBD/FSD 퍼블리싱, 쇼케이스 페이지, Jest 테스트"
+    },
+    {
+      "name": "java-skills",
+      "source": "./plugins/java-skills",
+      "description": "Spring Boot MSA 개발 스킬 모음 - 도메인 설계, 레이어드 아키텍처, 이벤트 기반 비동기, JUnit 테스트"
     }
   ]
 }
